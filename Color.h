@@ -8,7 +8,7 @@ enum class Color {
     Green,
     Blue,
     White,
-    Black,
+    Black
 };
 
 DirectX::XMFLOAT4 GetColor(Color color);
